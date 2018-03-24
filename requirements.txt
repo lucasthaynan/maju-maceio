@@ -1,0 +1,4 @@
+jupyter
+BeautifulSoup
+python-dotenv
+requests
