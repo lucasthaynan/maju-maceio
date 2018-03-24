@@ -2,3 +2,5 @@ jupyter
 BeautifulSoup
 python-dotenv
 requests
+datetime
+wordpress_xmlrpc
